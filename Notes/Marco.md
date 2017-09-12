@@ -1,9 +1,11 @@
 # Resources Locking Group Project
 
 ## Project
-    * Create a 4-bit, 2-disclosure device unlocker and surrounding classes.
+
+Create a 4-bit, 2-disclosure device unlocker and surrounding classes.
 
 ## Meetings
+
 * 9-7-2017
     * Standup:
         * Made a plan for today's meeting
