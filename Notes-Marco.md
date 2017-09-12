@@ -2,7 +2,7 @@
 
 ## Project
     * Create a 4-bit, 2-disclosure device unlocker and surrounding classes.
-    
+
 ## Meetings
 * 9-7-2017
     * Standup:
@@ -40,3 +40,12 @@
                 * Assign work
                 * Agenda for Thursday 9/14:
                     * Implementation mostly done
+ 
+* 9-12-2017
+    * Meeting at 2PM
+         * Agenda
+             * Divide work among people
+             * Discus algorithm
+             * Branching strategy
+         * Notes:
+             * 
